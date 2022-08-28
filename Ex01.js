@@ -1,3 +1,9 @@
+//Obtenha dados da altura e o sexo (M ou F) de 15 pessoas e apresente os seguintes resultados:
+
+//- A maior e a menor altura do grupo;
+//- A média de altura dos homens;
+//- O número de mulheres.
+
 var a, altura, sexo = 0;
 var altMaior, altMenor = 0;
 var Hom, Mulh = 0;
