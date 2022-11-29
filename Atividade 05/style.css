@@ -1,0 +1,29 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+body {
+    
+    display: grid;
+    place-items: center;
+    padding: 5rem;
+    background-color:teal;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    min-height: 50vh;
+    font-size: large;
+}
+
+form{
+    width: 90%;
+    max-width: 20rem;
+}
+
+button{
+    width: 100%;
+    font: inherit;
+    padding: 0rem;
+    font-weight: 300;
+}
